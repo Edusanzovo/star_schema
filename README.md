@@ -1,2 +1,2 @@
-# star_schema
-Dashboard simples a partir da modelação star schema de uma banco de dados.
+# ⭐ star_schema
+Criação de um banco de dados de uma faculdade modelado através do modelo star_schema. Em seguida, testado no power BI.
