@@ -1,4 +1,4 @@
-# ⭐ Star Schema Dashboard
+# ⭐ Star Schema Dashboards
 Criação de dois modelos star schema e seus dashboards simples.
 
 ## ⭐ Star faculdade
