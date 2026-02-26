@@ -1,2 +1,8 @@
 # ⭐ Star Schema Dashboard
-Criação de um banco de dados de uma faculdade modelado através do modelo star_schema. Em seguida, testado no power BI.
+Criação de dois modelos star schema e seus dashboards simples.
+
+## ⭐ Star faculdade
+Banco de dados montado do zero, tem como Professor como a tabela fato.
+
+## ⭐ Star vendas
+A partir da tabela financials já existentes, o objetivo foi criar tabelas dimensões derivadas a partir dessa. Todo o procedimento foi realizado no Power BI
